@@ -23,4 +23,6 @@ You can find the SQL script to create and populate the database in this reposito
    ```sql
    SELECT * FROM Products;
    SELECT * FROM Orders WHERE OrderDate BETWEEN '2023-07-20' AND '2023-07-24';
+![Screenshot (333)](https://github.com/user-attachments/assets/d77423dd-db33-4ece-acce-1450453a4fc5)
+![Screenshot (332)](https://github.com/user-attachments/assets/aed77edf-aaf2-4248-9088-a9b5a0f381ad)
 
